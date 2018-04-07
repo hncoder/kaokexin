@@ -1,6 +1,6 @@
 {
 	"detail":{
-		"title":"深入浅出ssl管理配置实战",
+		"title":"考研英语作文夺取25分万能模板备考揭秘",
 		"avatar":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1523098560981&di=347b95f5edecde0d36c31289b6009652&imgtype=0&src=http%3A%2F%2Fwww.kaoyan365.cn%2Fuploadfile%2F2015%2F0909%2F20150909093710457.jpg",
 		"author":"考课",
 		"description":"<h1 style='margin:20px auto;font-size:18px;font-weight:bold;letter-spacing: 1px'>课程介绍</h1><p style='margin:20px auto;line-height:18px;letter-spacing: 1px'>本课程……<p/>",
@@ -15,7 +15,7 @@
 			{
 				"id":"0",
 				"index":0,
-				"title":"导读：引言和概述",
+				"title":"导读：课程结构概述",
         "free":1,
         "finish":1,
 				"read":100
@@ -23,7 +23,7 @@
       {
         "id":"1",
         "index":1,
-        "title":"第01课：SSL核心概念和术语",
+        "title":"第01课：作文大纲解读及高分揭秘",
         "free":1,
         "finish":1,
         "read":20
@@ -31,7 +31,7 @@
       {
         "id":"2",
         "index":2,
-        "title":"第02课：OpenSSL快速入门",
+        "title":"第02课：万能模板备考的意义、可行性",
         "free":1,
         "finish":1,
         "read":10
