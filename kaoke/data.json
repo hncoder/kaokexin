@@ -1,23 +1,41 @@
 {
 	"detail":{
 		"title":"深入浅出ssl管理配置实战",
-		"image":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1522837297513&di=2a49885ed50d4d8504824a2731409cdf&imgtype=0&src=http%3A%2F%2Feasyread.ph.126.net%2FLG_zFWwab3DkQDQldwAD2g%3D%3D%2F7916902633919107322.jpg",
+		"avatar":"https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1523098560981&di=347b95f5edecde0d36c31289b6009652&imgtype=0&src=http%3A%2F%2Fwww.kaoyan365.cn%2Fuploadfile%2F2015%2F0909%2F20150909093710457.jpg",
 		"author":"考课",
-		"description":"本课程……",
-		"notice":"购买须知",
+		"description":"<h1 style='margin:20px auto;font-size:18px;font-weight:bold;letter-spacing: 1px'>课程介绍</h1><p style='margin:20px auto;line-height:18px;letter-spacing: 1px'>本课程……<p/>",
+		"notice":"<h1 style='margin:20px auto;font-size:18px;font-weight:bold;letter-spacing: 1px'>购买须知</h1>",
 		"marketPrice":2999,
 		"discountPrice":1999,
 		"sectionCount":10,
 		"purchasedCount":100,
+    "purchased":0,
+    "freeType":1,
 		"sections":[
 			{
-				"id":"1",
-				"index":1,
-				"title":"引言和概述",
-				"status":1,
-				"limit":1,
-				"read":0
-			}
+				"id":"0",
+				"index":0,
+				"title":"导读：引言和概述",
+        "free":1,
+        "finish":1,
+				"read":100
+			},
+      {
+        "id":"1",
+        "index":1,
+        "title":"第01课：SSL核心概念和术语",
+        "free":1,
+        "finish":1,
+        "read":20
+      },
+      {
+        "id":"2",
+        "index":2,
+        "title":"第02课：OpenSSL快速入门",
+        "free":1,
+        "finish":1,
+        "read":10
+      }
 		]
 	}
 }
